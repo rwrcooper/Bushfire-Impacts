@@ -21,9 +21,6 @@ Options:
 """
 
 
-# test edit
-# test edit 2
-
 # imports
 from docopt import docopt
 
